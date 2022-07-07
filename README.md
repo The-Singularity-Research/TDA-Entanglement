@@ -23,8 +23,10 @@ oretically any such process can be written as a (hybrid qudit) quantum circuit w
 modified entanglement (to include p-adic physics), exotic materials such as solid state hydrogen
 can be achieved. The physical consequences of constructing such a material are conjectural and
 likely context dependent. Proceed at your own risk.
-11. The Reverse Direction: Using Entanglement to Model Distance, Multiscale
+
+The Reverse Direction: Using Entanglement to Model Distance, Multiscale
 Topological Structures, and Emergent Space-Time
+---
 Using arbitrary controlled-U gates in place of controlled-X (CNOT) gates to entangle qubits
 we get a more complex variety of entangled states. If we also allow the controlled-U gates
 to be dynamic (learnable parameters in a uantum neural network) we can make entanglement
