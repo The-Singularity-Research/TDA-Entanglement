@@ -2,6 +2,7 @@
 ---
 ## A project using persistent homology to study the structure of entanglement
 ---
+Reference [Entanglement-Distance](https://github.com/The-Singularity-Research/Entanglement-Distance). 
 As an application of the theory developed thus far we propose a way of defining a Hamilton-
 ian Ansatz for arbitrary materials by defining a multiscale, multiparameter Hamiltonian Ansatz
 for an arbitrary material via persistence homology given by a dynamic DB-Scan algorithm re-
