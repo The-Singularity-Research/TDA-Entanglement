@@ -42,3 +42,11 @@ to the gentle surface algebra) as a bundle of operators over a Riemann surface. 
 map of Riemann surfaces with a conformal field theory correspond to a map of bundles, which
 should be defined by some local qudit gates or a generalized version of qudit gates according to
 surface algebra theory.
+
+##To-Do:
+---
+1. Modify [DB-scan](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
+for two parammemeters rather than one, or use [Rivet](https://rivet.readthedocs.io/en/latest/about.html)
+
+2. Reference [Entanglement-Distance](https://github.com/The-Singularity-Research/Entanglement-Distance) to use
+as a distance metric for persistent homology. 
