@@ -43,7 +43,7 @@ map of Riemann surfaces with a conformal field theory correspond to a map of bun
 should be defined by some local qudit gates or a generalized version of qudit gates according to
 surface algebra theory.
 
-##To-Do:
+## To-Do:
 ---
 1. Modify [DB-scan](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
 for two parammemeters rather than one, or use [Rivet](https://rivet.readthedocs.io/en/latest/about.html)
@@ -51,7 +51,7 @@ for two parammemeters rather than one, or use [Rivet](https://rivet.readthedocs.
 2. Reference [Entanglement-Distance](https://github.com/The-Singularity-Research/Entanglement-Distance) to use
 as a distance metric for persistent homology. 
 
-##Resources
+## Resources
 ---
 -[Topological Analysis of Syntactic Structures](https://github.com/The-Singularity-Research/TDA-Entanglement/blob/main/1903.05181.pdf)
 
