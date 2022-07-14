@@ -50,3 +50,15 @@ for two parammemeters rather than one, or use [Rivet](https://rivet.readthedocs.
 
 2. Reference [Entanglement-Distance](https://github.com/The-Singularity-Research/Entanglement-Distance) to use
 as a distance metric for persistent homology. 
+
+##Resources
+##Resources
+---
+-[Topological Analysis of Syntactic Structures]()
+-[Persistent Homology of Syntax]()
+-[Persistent Homology Tutorial for R](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf)
+-[Persistent Homology in R](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf)
+-[Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
+
+
+
