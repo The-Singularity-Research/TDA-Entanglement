@@ -55,10 +55,16 @@ as a distance metric for persistent homology.
 ##Resources
 ---
 -[Topological Analysis of Syntactic Structures](https://github.com/The-Singularity-Research/TDA-Entanglement/blob/main/1903.05181.pdf)
+
 -[Persistent Homology of Syntax](https://github.com/The-Singularity-Research/TDA-Entanglement/blob/main/PersistentTopologySyntax.pdf)
+
 -[Persistent Homology Tutorial for R](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf)
+
 -[Persistent Homology in R](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf)
+
 -[Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
+
+-[Gravitational Wave Detection](https://giotto-ai.github.io/gtda-docs/0.5.1/notebooks/gravitational_waves_detection.html#) (transform gravitational waves into conformal mappings in an AdS/CFT type correspondence and then into quantum gates via [conformal-gates](https://github.com/The-Singularity-Research/conformal-gates)
 
 
 
