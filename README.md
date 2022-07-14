@@ -52,7 +52,6 @@ for two parammemeters rather than one, or use [Rivet](https://rivet.readthedocs.
 as a distance metric for persistent homology. 
 
 ##Resources
-##Resources
 ---
 -[Topological Analysis of Syntactic Structures](https://github.com/The-Singularity-Research/TDA-Entanglement/blob/main/1903.05181.pdf)
 
