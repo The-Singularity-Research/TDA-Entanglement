@@ -54,7 +54,7 @@ as a distance metric for persistent homology.
 ##Resources
 ##Resources
 ---
--[Topological Analysis of Syntactic Structures]()
+-[Topological Analysis of Syntactic Structures](https://github.com/The-Singularity-Research/TDA-Entanglement/blob/main/1903.05181.pdf)
 -[Persistent Homology of Syntax](https://github.com/The-Singularity-Research/TDA-Entanglement/blob/main/PersistentTopologySyntax.pdf)
 -[Persistent Homology Tutorial for R](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf)
 -[Persistent Homology in R](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf)
