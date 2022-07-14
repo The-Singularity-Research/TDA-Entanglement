@@ -34,7 +34,8 @@ to be dynamic (learnable parameters in a uantum neural network) we can make enta
 between qudits a dynamic parameter.
 This parameter can be interpreted as a form of distance between qudits. Using energy level
 of qudits as a second parameter and using a dynamic DB-scan with these two parameters gives
-a way of computing 2-parameter persistent homology. The persistent homology allows us to
+a way of computing 2-parameter persistent homology. Global vs. local energy level changes may result 
+in different entanglement structures and therefore different homological properties. The persistent homology allows us to
 understand emergent geometric and topological properties of the quantum system.
 We can define maps between surface code states that model conformal maps of conformal
 field theories on some Riemann surface. The idea is to think of the surface code (corresponding
