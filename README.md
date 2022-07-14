@@ -64,7 +64,7 @@ as a distance metric for persistent homology.
 
 -[Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
 
--[Gravitational Wave Detection](https://giotto-ai.github.io/gtda-docs/0.5.1/notebooks/gravitational_waves_detection.html#) (transform gravitational waves into conformal mappings in an AdS/CFT type correspondence and then into quantum gates via [conformal-gates](https://github.com/The-Singularity-Research/conformal-gates)
+-[Gravitational Wave Detection](https://giotto-ai.github.io/gtda-docs/0.5.1/notebooks/gravitational_waves_detection.html#) (transform gravitational waves into conformal mappings in an AdS/CFT type correspondence after reduction from Minkowski spacetime in $\mathbb{R}^{3+1}$ to a conformal region in one complex spacial dimension and one time dimension, and then into quantum gates via [conformal-gates](https://github.com/The-Singularity-Research/conformal-gates)
 
 
 
